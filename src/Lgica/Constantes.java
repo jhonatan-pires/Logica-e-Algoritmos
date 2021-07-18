@@ -1,3 +1,4 @@
+package Lgica;
 
 import java.util.Scanner;
 
