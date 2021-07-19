@@ -25,11 +25,5 @@ public class TerceiroMetodo {
     String[] seInscrevaAqui = new String[] {"Nivel Junior", "Nivel Pleno", "Nivel Senior"};
     System.out.println("SEU NIVEL ?");
 
-    for(int i = 0; i < seInscrevaAqui.length; i++){
-        System.out.println("[" + i + "]" + seInscrevaAqui[i]);
-    }
-
-    System.out.println("Sua categoria é : ");
-
     }
 }
