@@ -29,7 +29,6 @@ public class DadosPedidosFactory {
     public void setSubtotal(Double subtotal) {
         this.subtotal = subtotal;
     }
-
     public Double getDesconto() {
         return desconto;
     }
